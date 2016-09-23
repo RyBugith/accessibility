@@ -41,7 +41,10 @@ th, td {
   text-align: left;
   width: 350px;
 }
-
+/*
+# id
+cell is name of id
+*/
 #cell1 {background-color: #fff}
 #cell2 {background-color: #E8E7ED; color:#FFFEC9;}
 #cell3 {background-color: #000000; color:#ffffff;}
